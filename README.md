@@ -3,7 +3,7 @@
 
 - 📖 I believe in continuous learning and self-improvement.
   
--🚀 I'm passionate about exploring and applying new technologies.
+- 🚀 I'm passionate about exploring and applying new technologies.
 
 - 💬 Ask me about **Android, Kotlin and Java**
   
