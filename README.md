@@ -2,8 +2,11 @@
 <h3 align="center">A passionate Android developer</h3>
 
 - 📖 I believe in continuous learning and self-improvement.
+  
 -🚀 I'm passionate about exploring and applying new technologies.
+
 - 💬 Ask me about **Android, Kotlin and Java**
+  
 - 📫 How to reach me **abdulrehman02123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
